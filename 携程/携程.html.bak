@@ -1,0 +1,1341 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>携程旅行网官网:酒店预订,机票预订查询,旅游度假,商旅管理</title>
+	<link rel="icon" href="img/20170804072246654_easyicon_net_16.ico"/>
+	<link rel="stylesheet" href="xiecheng.css"/>
+</head>
+<body>
+	<div id="headerbox">
+		<div id="logobox">
+			<div class="logo">
+				<div class="logo-ipt">
+					<a href="#"></a>
+					<div class="ipt">
+						<input placeholder="暑假狂欢派对，酒店最高省1000元"/>
+						<a href="#"></a>
+					</div>
+				</div>
+				<ul>
+					<li class="global">
+						<i></i>
+						<a href="#">Global Sites</a>
+						<span></span>
+						<ul class="global-list">
+							<li><img src="img/f20170801135325_03.gif"/>香港（繁体）</li>
+							<li><img src="img/f20170801135325_03.gif"/>Hong Kong(English)</li>
+							<li><img src="img/QQ截图20170801135325_06.gif"/>English</li>
+							<li><img src="img/QQ截图20170801135325_08.gif"/>日本版</li>
+							<li><img src="img/QQ截图20170801135325_10.gif"/>韩语版</li>
+							<li><img src="img/QQ截图20170801135325_12.gif"/>Singapore</li>
+							<li><img src="img/QQ截图20170801135325_14.gif"/>Bahasa Indonesia</li>
+							<li><img src="img/QQ截图20170801135325_16.gif"/>Bahasa Malaysia</li>
+							<li><img src="img/QQ截图20170801135325_18.gif"/>ภาษาไทย</li>
+							<li><img src="img/QQ截图20170801135325_20.gif"/>Français</li>
+							<li><img src="img/QQ截图20170801135325_22.gif"/>Deutsch</li>
+							<li><img src="img/QQ截图20170801135325_24.gif"/>Español</li>
+							<li><img src="img/QQ截图20170801135325_26.gif"/>Русский</li>
+						</ul>
+						<b></b>
+					</li>
+					<li class="gg"></li>
+					<li class="kf"><a href="#">客服中心</a></li>
+					<li class="gg"></li>
+					<li class="phone">
+						<a href="#">国内：<b>400-830-6666</b></a>
+						<span></span>
+						<div class="phone-list">
+							<p>（或）<b>400-820-6666</b></p>
+							<p>香港：<b>+852-3069-9966</b></p>
+							<p>海外：<b>+86-21-3406-4888</b></p>
+						</div>
+						<b class="kb"></b>
+					</li>
+					<li class="sj">
+						<a href="#"></a>
+						<div>
+							<p>手机扫码快速下载</p>
+							<i></i>
+							<p>携程旅行手机版</p>
+						</div>
+					</li>
+					<li class="wx">
+						<a href="#"></a>
+						<div>
+							<p>订阅携程号 helloctrip</p>
+							<i></i>
+							<p>扫一扫，领旅行福利</p>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div id="navbox">
+			<div class="nav">
+				<ul class="nav-list">
+					<li><a href="#" class="sy">首页</a></li>
+					<li>
+						<a href="#">酒店</a>
+						<i></i>
+					</li>
+					<li>
+						<a href="#">旅游</a>
+						<i></i>
+					</li>
+					<li>
+						<a href="#">机票</a>
+						<i></i>
+					</li>
+					<li>
+						<a href="#">火车</a>
+						<i></i>
+					</li>
+					<li>
+						<a href="#">汽车票</a>
+						<i></i>
+					</li>
+					<li>
+						<a href="#">用车</a>
+						<i></i>
+					</li>
+					<li>
+						<a href="#">门票</a>
+						<i></i>
+					</li>
+					<li>
+						<a href="#">团购</a>
+						<i></i>
+					</li>
+					<li>
+						<a href="#">攻略</a>
+					</li>
+					<li>
+						<a href="#">全球购</a>
+						<i></i>
+					</li>
+					<li>
+						<a href="#">礼品卡</a>
+						<i></i>
+					</li>
+					<li>
+						<a href="#">商旅</a>
+						<i></i>
+					</li>
+					<li>
+						<a href="#">邮轮</a>
+					</li>
+					<li>
+						<a href="#">天海邮轮</a>
+					</li>
+					<li>
+						<a href="#">更多</a>
+						<i></i>
+					</li>
+				</ul>
+				<div class="reg">
+					<ul>
+						<li>
+							<span></span>
+							<a href="#">登录</a>
+						</li>
+						<li>|</li>
+						<li><a href="#">注册</a></li>
+					</ul>
+					<div class="myxc">
+						<a href="#">我的携程</a>
+						<span></span>
+						<ul class="enter">
+							<li><a href="#" class="e1">登录</a></li>
+							<li><a href="#" class="e2">全部订单</a></li>
+							<li><a href="#" class="e3">手机号查订单</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="znq"></div>
+			</div>
+		</div>
+		<div id="helpbox">
+			<div class="help">
+				<div class="ztc">
+					<b>国际旅行直通车</b>
+					<i></i>
+				</div>
+				<ul>
+					<li>
+						<span class="jd"></span>
+						<a href="#">海外酒店</a>
+					</li>
+					<li>
+						<span class="jp"></span>
+						<a href="#">国际机票</a>
+					</li>
+					<li>
+						<span class="zc"></span>
+						<a href="#">国际租车</a>
+					</li>
+					<li>
+						<span class="hcp"></span>
+						<a href="#">国际·台湾火车票</a>
+					</li>
+					<li>
+						<span class="ly"></span>
+						<a href="#">出境旅游</a>
+					</li>
+					<li>
+						<span class="gdy"></span>
+						<a href="#">高端游</a>
+					</li>
+					<li>
+						<span class="mp"></span>
+						<a href="#">海外门票</a>
+					</li>
+					<li>
+						<span class="qz"></span>
+						<a href="#">签证</a>
+					</li>
+					<li>
+						<span class="bx"></span>
+						<a href="#">出境保险</a>
+					</li>
+					<li>
+						<span class="dhk"></span>
+						<a href="#">出境WiFi·电话卡</a>
+					</li>
+					<li>
+						<span class="wb"></span>
+						<a href="#">外币兑换</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div id="bannerbox">
+		<div id="banner">
+			<div class="opt">
+				<ul>
+					<li id="jd">
+						<b></b>
+						<a href="#">酒店</a>
+					</li>
+					<li>
+						<b></b>
+						<a href="#">机票</a>
+					</li>
+					<li>
+						<b></b>
+						<a href="#">自由行</a>
+					</li>
+					<li>
+						<b></b>
+						<a href="#">旅游</a>
+					</li>
+					<li>
+						<b></b>
+						<a href="#">火车</a>
+					</li>
+					<li>
+						<b></b>
+						<a href="#">用车</a>
+					</li>
+					<li>
+						<b></b>
+						<a href="#" id="mp">门票</a>
+					</li>
+				</ul>
+				<div class="opt-list">
+					<ul class="menu">
+						<li class="gnjd">
+							<a href="#">国内酒店</a>
+							<b></b>
+						</li>
+						<li>
+							<a href="#">海外酒店</a>
+						</li>
+						<li>
+							<a href="#">酒店团购</a>
+						</li>
+						<li>
+							<a href="#">酒店+景点</a>
+						</li>
+						<li>
+							<a href="#">会议+团房+长住</a>
+						</li>
+					</ul>
+					<ul class="information">
+						<li class="infor1">
+							<b>目的地</b>
+							<input placeholder="中文/拼音"/>
+						</li>
+						<li class="infor2">
+							<div class="rz">
+								<b>入住日期</b>
+								<input placeholder="2017-8-2"/>
+							</div>
+							<div class="tf">
+								<b>退房日期</b>
+								<input placeholder="2017-8-3"/>
+							</div>
+						</li>
+						<li class="infor3">
+							<b>酒店级别</b>
+							<select>
+								<option selected="selected">不限</option>
+								<option>五星级/豪华</option>
+								<option>四星级/高档</option>
+								<option>三星级/舒适</option>
+								<option>二星级以下/经济</option>
+							</select>
+						</li>
+						<li class="infor4">
+							<b>关键词</b>
+							<input placeholder="（选填）酒店名/地标/商圈"/>
+						</li>
+					</ul>
+					<a href="#">搜索</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="sectionbox">
+		<div id="section">
+			<ul class="section-list">
+				<li class="section1">
+					<div class="tit">
+						<ul>
+							<li>
+								<a href="#" style="color:blue;">特卖汇</a>
+								<i></i>
+							</li>
+							<li>
+								<a href="#">出境游</a>
+							</li>
+							<li>
+								<a href="#">国内游</a>
+							</li>
+							<li>
+								<a href="#">周边游</a>
+							</li>
+							<li>
+								<a href="#">邮轮</a>
+							</li>
+							<li>
+								<a href="#">门票</a>
+							</li>
+							<li>
+								<a href="#">主题游</a>
+							</li>
+							<li>
+								<a href="#">高端游</a>
+							</li>
+						</ul>
+						<div>
+							<a href="#">上海出发</a>
+							<b></b>
+						</div>
+					</div>
+					<div class="tmh">
+						<div style="height:34px;" class="small-tit">
+							<ul>
+								<li><a href="#" style="background:#3983e5;color:#fff;">精选</a></li>
+								<li><a href="#">跟团游</a></li>
+								<li><a href="#">自由行</a></li>
+								<li><a href="#">当地游</a></li>
+								<li><a href="#">邮轮游</a></li>
+							</ul>
+							<a href="#">更多特卖汇 &gt;</a>
+						</div>
+						<div class="tmh-list">
+							<ul style="cursor:pointer;">
+								<li class="pic-txt">
+									<dl>
+										<dt class="picture p1">
+											<i>特卖</i>
+											<span>特价中的特价，抢完为止</span>
+										</dt>
+										<dd class="description">柬埔寨暹粒吴哥窟6日4晚自由行(5钻)·【免费5星酒店4晚连住】+东航直飞+可落地签</dd>
+										<dd class="price">
+											<i>席位充足</i>
+											<p><sup>&yen;</sup><b>2896</b>起</p>
+										</dd>
+									</dl>
+								</li>
+								<li class="pic-txt">
+									<dl>
+										<dt class="picture p2">
+											<i>特卖</i>
+											<span>漫步长滩白沙滩，品尝美味又实惠的海鲜大餐，美丽海景尽在眼前！</span>
+										</dt>
+										<dd class="description">菲律宾长滩岛5日3晚半自助(4钻)·Z2直飞 3A酒店 含接送+领队 赠长滩巡游</dd>
+										<dd class="price">
+											<i>席位充足</i>
+											<p><sup>&yen;</sup><b>2399</b>起</p>
+										</dd>
+									</dl>
+								</li>
+								<li class="pic-txt">
+									<dl>
+										<dt class="picture p3">
+											<i>特卖</i>
+											<span>6日省心游，心斋桥+道顿崛+银座日本三大购物天堂</span>
+										</dt>
+										<dd class="description">日本大阪+京都+箱根+东京6日跟团游(3钻)·9月特价3899 A全程含餐温泉艺伎B少请1天假</dd>
+										<dd class="price">
+											<i>席位充足</i>
+											<p><sup>&yen;</sup><b>3899</b>起</p>
+										</dd>
+									</dl>
+								</li>
+								<li class="pic-txt">
+									<dl>
+										<dt class="picture p4">
+											<i>特卖</i>
+											<span>整个套餐，仅为外网单订一间房的钱</span>
+										</dt>
+										<dd class="description">湖州2日自由行(5钻)·【自助晚+泡温泉】住湖州喜来登+可加选套餐</dd>
+										<dd class="price">
+											<i>席位充足</i>
+											<p><sup>&yen;</sup><b>1094</b>起</p>
+										</dd>
+									</dl>
+								</li>
+								<li class="pic-txt">
+									<dl>
+										<dt class="picture p5">
+											<i>特卖</i>
+											<span>住香格里拉大酒店，品早茶，仅339起！</span>
+										</dt>
+										<dd class="description">江苏扬州2日半自助游·宿香格里拉酒店&品美味早茶 339特卖</dd>
+										<dd class="price">
+											<i>席位充足</i>
+											<p><sup>&yen;</sup><b>339</b>起</p>
+										</dd>
+									</dl>
+								</li>
+								<li class="pic-txt">
+									<dl>
+										<dt class="picture p6">
+											<i>特卖</i>
+											<span>本季特惠，送五星酒店晚餐自助</span>
+										</dt>
+										<dd class="description">沙巴7日5晚自由行·【国庆早定2人减1000】直飞3+2双酒店+接机</dd>
+										<dd class="price">
+											<i>仅剩10席</i>
+											<p><sup>&yen;</sup><b>2354</b>起</p>
+										</dd>
+									</dl>
+								</li>
+								<li class="pic-txt">
+									<dl>
+										<dt class="picture p7">
+											<i>特卖</i>
+											<span>错峰特价，踩点首选！</span>
+										</dt>
+										<dd class="description">德国+法国+瑞士+意大利11日跟团游·3-4星【爆款】直飞 童话城堡 卢浮宫 拒签退</dd>
+										<dd class="price">
+											<i>席位充足</i>
+											<p><sup>&yen;</sup><b>6899</b>起</p>
+										</dd>
+									</dl>
+								</li>
+								<li class="pic-txt">
+									<dl>
+										<dt class="picture p8">
+											<i>特卖</i>
+											<span>2次出海，赠旅拍，暑期抄底价！</span>
+										</dt>
+										<dd class="description">泰国普吉岛7日5晚跟团游(5钻)·【海岛控·宿离岛】2次出海·赠旅拍·1天free</dd>
+										<dd class="price">
+											<i>席位充足</i>
+											<p><sup>&yen;</sup><b>3799</b>起</p>
+										</dd>
+									</dl>
+								</li>
+							</ul>
+							<a href="#"><span>你不可不看的特价旅游频道</span></a>
+						</div>
+					</div>
+				</li>
+				<li class="section2">
+					<div class="tit">
+						<ul>
+							<li>
+								<a href="#" style="color:blue;">海外酒店</a>
+								<i></i>
+							</li>
+							<li>
+								<a href="#">海外民宿+短租</a>
+							</li>
+							<li>
+								<a href="#">国内酒店</a>
+							</li>
+							<li>
+								<a href="#">酒店+景点</a>
+							</li>
+							<li>
+								<a href="#">客栈民宿</a>
+							</li>
+							<li>
+								<a href="#">团购</a>
+							</li>
+						</ul>
+					</div>
+					<div class="hwjd">
+						<div class="hwjd-left aside-list">
+							<dl class="d1">
+								<dt>促销</dt>
+								<dd><a href="#">暑你有腔调 海外暑期特惠酒店99元起</a></dd>
+								<dd><a href="#">海外酒店低价抢购</a></dd>
+								<dd><a href="#">海外新入驻酒店抢鲜体验</a></dd>
+								<dd><a href="#">华人礼遇尊享特惠</a></dd>
+								<dd><a href="#">热门四国酒店酷热价低至6折</a></dd>
+							</dl>
+							<dl class="d2">
+								<dt>发现酒店</dt>
+								<dd><a href="#">走在时尚潮流最前沿的你怎么能不住艺术酒店呢</a></dd>
+								<dd><a href="#">跟着小编去新加坡吃起来了呀</a></dd>
+								<dd><a href="#">与星月同尘，随光影而行，跨欧亚大陆，享疯狂青春</a></dd>
+								<dd><a href="#">这是一个没有一丝雾霾，幸福感爆棚的地方</a></dd>
+							</dl>
+						</div>
+						<div class="hwjd-right">
+							<div style="height:34px;" class="small-tit">
+								<ul>
+									<li><a href="#" style="background:#3983e5;color:#fff;">热门城市</a></li>
+									<li><a href="#">都市购物</a></li>
+									<li><a href="#">海岛休闲</a></li>
+									<li><a href="#">旅游胜地</a></li>
+								</ul>
+								<a href="#">更多海外酒店 &gt;</a>
+							</div>
+							<div>
+								<ul class="pic-txt2">
+									<li class="l1">
+										<div>
+											<p class="p1">新加坡</p>
+											<p class="p2">523家酒店</p>
+											<p class="p3"><sup>&yen;</sup><b>70</b>起</p>
+										</div>
+									</li>
+									<li class="l2">
+										<div>
+											<p class="p1">曼谷</p>
+											<p class="p2">2942家酒店</p>
+											<p class="p3"><sup>&yen;</sup><b>18</b>起</p>
+										</div>
+									</li>
+									<li class="l3">
+										<div>
+											<p class="p1">东京</p>
+											<p class="p2">246家酒店</p>
+											<p class="p3"><sup>&yen;</sup><b>121</b>起</p>
+										</div>
+									</li>
+									<li class="l4">
+										<div>
+											<p class="p1">吉隆坡</p>
+											<p class="p2">2297家酒店</p>
+											<p class="p3"><sup>&yen;</sup><b>27</b>起</p>
+										</div>
+									</li>
+									<li class="l5">
+										<div>
+											<p class="p1">大阪</p>
+											<p class="p2">2763家酒店</p>
+											<p class="p3"><sup>&yen;</sup><b>44</b>起</p>
+										</div>
+									</li>
+									<li class="l6">
+										<div>
+											<p class="p1">普吉岛</p>
+											<p class="p2">3898家酒店</p>
+											<p class="p3"><sup>&yen;</sup><b>41</b>起</p>
+										</div>
+									</li>
+								</ul>
+								<a href="#" class="ads"><span>海外热门酒店推荐</span></a>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="section3">
+					<div class="tit">
+						<ul>
+							<li>
+								<a href="#" style="color:blue;">国际特价机票</a>
+								<i></i>
+							</li>
+							<li>
+								<a href="#">国内特价机票</a>
+							</li>
+						</ul>
+						<div>
+							<a href="#">上海出发</a>
+							<b></b>
+						</div>
+					</div>
+					<div class="gjjp">
+						<div style="height:34px;" class="small-tit">
+							<ul>
+								<li><a href="#" style="background:#3983e5;color:#fff;">热门往返</a></li>
+								<li><a href="#">亚洲</a></li>
+								<li><a href="#">欧洲</a></li>
+								<li><a href="#">美洲</a></li>
+								<li><a href="#">非洲</a></li>
+							</ul>
+							<a href="#">更多国际特价机票 &gt;</a>
+						</div>
+						<div class="gjjp-list">
+							<ul class="gjjp-list-left">
+								<li>
+									<p>上海<i></i>名古屋</p>
+									<i>9月05日 - 9月06日</i>
+									<div>
+										<p><sup>&yen;</sup><span>200</span> 起</p>
+										<a href="#">立抢</a>
+									</div>
+								</li>
+								<li>
+									<p>上海<i></i>大阪</p>
+									<i>9月11日 - 9月15日</i>
+									<div>
+										<p><sup>&yen;</sup><span>256</span> 起</p>
+										<a href="#">立抢</a>
+									</div>
+								</li>
+								<li>
+									<p>上海<i></i>新加坡</p>
+									<i>9月03日 - 9月06日</i>
+									<div>
+										<p><sup>&yen;</sup><span>321</span> 起</p>
+										<a href="#">立抢</a>
+									</div>
+								</li>
+								<li>
+									<p>上海<i></i>首尔</p>
+									<i>9月10日 - 9月12日</i>
+									<div>
+										<p><sup>&yen;</sup><span>340</span> 起</p>
+										<a href="#">立抢</a>
+									</div>
+								</li>
+								<li>
+									<p>上海<i></i>马尼拉</p>
+									<i>8月27日 - 8月31日</i>
+									<div>
+										<p><sup>&yen;</sup><span>385</span> 起</p>
+										<a href="#">立抢</a>
+									</div>
+								</li>
+								<li>
+									<p>上海<i></i>吉隆坡</p>
+									<i>9月10日 - 9月17日</i>
+									<div>
+										<p><sup>&yen;</sup><span>418</span> 起</p>
+										<a href="#">立抢</a>
+									</div>
+								</li>
+								<li>
+									<p>上海<i></i>胡志明市</p>
+									<i>9月08日 - 9月10日</i>
+									<div>
+										<p><sup>&yen;</sup><span>428</span> 起</p>
+										<a href="#">立抢</a>
+									</div>
+								</li>
+								<li>
+									<p>上海<i></i>曼谷</p>
+									<i>8月05日 - 8月10日</i>
+									<div>
+										<p><sup>&yen;</sup><span>469</span> 起</p>
+										<a href="#">立抢</a>
+									</div>
+								</li>
+								<li>
+									<p>上海<i></i>澳门</p>
+									<i>9月09日 - 9月12日</i>
+									<div>
+										<p><sup>&yen;</sup><span>551</span> 起</p>
+										<a href="#">立抢</a>
+									</div>
+								</li>
+								<li>
+									<p>上海<i></i>香港</p>
+									<i>8月30日 - 9月06日</i>
+									<div>
+										<p><sup>&yen;</sup><span>605</span> 起</p>
+										<a href="#">立抢</a>
+									</div>
+								</li>
+								<li>
+									<p>上海<i></i>洛杉矶</p>
+									<i>8月26日 - 8月31日</i>
+									<div>
+										<p><sup>&yen;</sup><span>624</span> 起</p>
+										<a href="#">立抢</a>
+									</div>
+								</li>
+								<li>
+									<p>上海<i></i>台北</p>
+									<i>8月28日 - 9月04日</i>
+									<div>
+										<p><sup>&yen;</sup><span>633</span> 起</p>
+										<a href="#">立抢</a>
+									</div>
+								</li>
+							</ul>
+							<a href="#"></a>
+						</div>
+					</div>
+				</li>
+				<li class="section4">
+					<div class="tit">
+						<ul>
+							<li>
+								<a href="#" style="color:blue;">国际租车</a>
+								<i></i>
+							</li>
+							<li>
+								<a href="#">国际接送机</a>
+							</li>
+							<li>
+								<a href="#">国内租车</a>
+							</li>
+							<li>
+								<a href="#">国内接送机</a>
+							</li>
+							<li>
+								<a href="#">日租包车</a>
+							</li>
+						</ul>
+					</div>
+					<div class="gjzc">
+						<div class="aside-list">
+							<dl style="height:190px;">
+								<dt>国际租车活动</dt>
+								<dd><a href="#">海外租车岁末狂返3000万</a></dd>
+								<dd><a href="#">国际驾照认证件0元办</a></dd>
+								<dd><a href="#">魅力自驾 海外租车最高减20%</a></dd>
+							</dl>
+						</div>
+						<div class="gjzc-list">
+							<div style="height:34px;" class="small-tit">
+								<ul>
+									<li><a href="#" style="background:#3983e5;color:#fff;">小型轿车</a></li>
+									<li><a href="#">中型轿车</a></li>
+									<li><a href="#">高档轿车</a></li>
+									<li><a href="#">中型SUV</a></li>
+									<li><a href="#">标准SUV</a></li>
+									<li><a href="#">全尺寸SUV</a></li>
+									<li><a href="#">更多</a></li>
+								</ul>
+								<a href="#">更多国际租车 &gt;</a>
+							</div>
+							<ul>
+								<li class="car1">
+									<p class="area">美国 洛杉矶</p>
+									<p class="zc-price">
+										<i>自驾梦幻1号公路</i>
+										<span><sup>&yen;</sup><b>142</b>起</span>
+									</p>
+								</li>
+								<li class="car2">
+									<p class="area">加拿大 温哥华</p>
+									<p class="zc-price">
+										<i>环游如画温哥华岛</i>
+										<span><sup>&yen;</sup><b>163</b>起</span>
+									</p>
+								</li>
+								<li class="car3">
+									<p class="area">澳大利亚 墨尔本</p>
+									<p class="zc-price">
+										<i>大洋路绝美海岸线</i>
+										<span><sup>&yen;</sup><b>189</b>起</span>
+									</p>
+								</li>
+								<li class="car4">
+									<p class="area">德国 慕尼黑</p>
+									<p class="zc-price">
+										<i>啤酒之城驾车狂欢</i>
+										<span><sup>&yen;</sup><b>189</b>起</span>
+									</p>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li class="section5">
+					<div class="tit">
+						<ul>
+							<li>
+								<a href="#" style="color:blue;">当地玩乐·海外</a>
+								<i></i>
+							</li>
+							<li>
+								<a href="#">当地玩乐·国内</a>
+							</li>
+						</ul>
+					</div>
+					<div class="qqg">
+						<div class="rmmdd">
+							<dl>
+								<dt>热门目的地</dt>
+								<dd>
+									<a href="#">普吉岛</a>
+									<b>|</b>
+									<a href="#">东京</a>
+									<b>|</b>
+									<a href="#">香港</a>
+								</dd>
+								<dd>
+									<a href="#">毛里求斯</a>
+									<b>|</b>
+									<a href="#">台北</a>
+									<b>|</b>
+									<a href="#">清迈</a>
+								</dd>
+								<dd>
+									<a href="#">巴黎</a>
+									<b>|</b>
+									<a href="#">迪拜</a>
+									<b>|</b>
+									<a href="#">悉尼</a>
+									<b>|</b>
+									<a href="#">夏威夷</a>
+								</dd>
+								<dd>
+									<a href="#">新加坡</a>
+									<b>|</b>
+									<a href="#">巴厘岛</a>
+									<b>|</b>
+									<a href="#">沙巴</a>
+								</dd>
+							</dl>
+						</div>
+						<div class="ddwl">
+							<div style="height:34px;" class="small-tit">
+								<ul>
+									<li><a href="#" style="background:#3983e5;color:#fff;">特惠推荐</a></li>
+									<li><a href="#">一日游</a></li>
+									<li><a href="#">交通接驳</a></li>
+									<li><a href="#">当地美食</a></li>
+									<li><a href="#">新奇探险</a></li>
+									<li><a href="#">港澳过关</a></li>
+									<li><a href="#">演出</a></li>
+									<li><a href="#">更多</a></li>
+								</ul>
+								<a href="#">更多当地玩乐 &gt;</a>
+							</div>
+							<ul style="cursor:pointer;">
+								<li class="pic-txt">
+									<dl>
+										<dt class="picture p9">
+										</dt>
+										<dd class="description">【9元换购萤火虫夜游/主题公园门票】黄金海岸日出热气球之旅（酒庄香槟早餐可选）</dd>
+										<dd class="price">
+											<i>澳大利亚·黄金海岸</i>
+											<p><sup>&yen;</sup><b>1339</b>起</p>
+										</dd>
+									</dl>
+								</li>
+								<li class="pic-txt">
+									<dl>
+										<dt class="picture p10">
+										</dt>
+										<dd class="description">【扫码入园/立即确认】悉尼多景点任选联票【悉尼塔、水族馆、动物园、蜡像馆、曼丽海洋生物保护区】</dd>
+										<dd class="price">
+											<i>澳大利亚·悉尼</i>
+											<p><sup>&yen;</sup><b>199</b>起</p>
+										</dd>
+									</dl>
+								</li>
+								<li class="pic-txt">
+									<dl>
+										<dt class="picture p11">
+										</dt>
+										<dd class="description">【新品限量八折】【夜游曼谷】四面佛＋暹罗广场＋King power免税店＋考山路/亚洲夜市克里普索人妖秀/夜游湄南河白玉兰豪华游轮一日游（三选一）</dd>
+										<dd class="price">
+											<i>泰国·曼谷</i>
+											<p><sup>&yen;</sup><b>75</b>起</p>
+										</dd>
+									</dl>
+								</li>
+								<li class="pic-txt">
+									<dl>
+										<dt class="picture p12">
+										</dt>
+										<dd class="description">巴厘岛阿勇河漂流+乌布皇宫+乌布艺术市场一日游【暑期多人特惠·私家游】</dd>
+										<dd class="price">
+											<i>印度尼西亚·巴厘岛</i>
+											<p><sup>&yen;</sup><b>397</b>起</p>
+										</dd>
+									</dl>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li class="section6">
+					<div class="tit">
+						<ul>
+							<li>
+								<a href="#" style="color:blue;">全球购</a>
+								<i></i>
+							</li>
+						</ul>
+					</div>
+					<div class="qqg">
+						<div class="rmmdd">
+							<dl>
+								<dt>热门目的地</dt>
+								<dd>
+									<a href="#">香港</a>
+									<b>|</b>
+									<a href="#">日本</a>
+									<b>|</b>
+									<a href="#">法国</a>
+									<b>|</b>
+									<a href="#">澳门</a>
+								</dd>
+								<dd>
+									<a href="#">英国</a>
+									<b>|</b>
+									<a href="#">泰国</a>
+									<b>|</b>
+									<a href="#">新加坡</a>
+									<b>|</b>
+									<a href="#">美国</a>
+								</dd>
+								<dd>
+									<a href="#">西班牙</a>
+									<b>|</b>
+									<a href="#">台北</a>
+									<b>|</b>
+									<a href="#">澳大利亚</a>
+								</dd>
+								<dd>
+									<a href="#">意大利</a>
+									<b>|</b>
+									<a href="#">阿联酋</a>
+								</dd>
+							</dl>
+							<i class="hot1"></i>
+							<i class="hot2"></i>
+						</div>
+						<div class="ddwl">
+							<div style="height:34px;" class="small-tit">
+								<ul>
+									<li><a href="#" style="background:#3983e5;color:#fff;">热门商户</a></li>
+									<li><a href="#">精品百货</a></li>
+									<li><a href="#">奢品大牌</a></li>
+									<li><a href="#">口碑推荐</a></li>
+									<li><a href="#">新店首选</a></li>
+								</ul>
+								<a href="#">更多全球名店 &gt;</a>
+							</div>
+							<ul style="cursor:pointer;">
+								<li class="pic-txt">
+									<dl>
+										<dt class="picture p13">
+										</dt>
+										<dd class="description">DFS旗下T广场（香港广东道店） DFS T Galleria（Hong Kong Canton Road）</dd>
+										<dd class="price">
+											<i>中国 • 香港</i>
+											<span>返现</span>
+										</dd>
+									</dl>
+								</li>
+								<li class="pic-txt">
+									<dl>
+										<dt class="picture p14">
+										</dt>
+										<dd class="description">迪拜国际机场T3航站楼A出发区（综合购物区店） Concourse A（Dubai Duty Free Shopping Complex Panshot）</dd>
+										<dd class="price">
+											<i>阿联酋 • 迪拜</i>
+											<span>促销</span>
+										</dd>
+									</dl>
+								</li>
+								<li class="pic-txt">
+									<dl>
+										<dt class="picture p15">
+										</dt>
+										<dd class="description">高岛屋（大阪店） Takashimaya Osaka Store</dd>
+										<dd class="price">
+											<i>日本 • 大阪</i>
+											<span>返现</span>
+										</dd>
+									</dl>
+								</li>
+								<li class="pic-txt">
+									<dl>
+										<dt class="picture p16">
+										</dt>
+										<dd class="description">松屋（银座本店） MATSUYA（GINZA）</dd>
+										<dd class="price">
+											<i>日本 • 东京</i>
+											<span>促销</span>
+										</dd>
+									</dl>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li class="section7">
+					<div class="tit">
+						<ul>
+							<li>
+								<a href="#" style="color:blue;">目的地攻略</a>
+								<i></i>
+							</li>
+							<li>
+								<a href="#">旅游旗舰店</a>
+							</li>
+						</ul>
+					</div>
+					<div class="mddgl">
+						<div class="aside-list">
+							<dl>
+								<dt>当季推荐</dt>
+								<dd><a href="#">圣托里尼：永恒的蓝白世界</a></dd>
+								<dd><a href="#">哥本哈根：走进安徒生的童话世界</a></dd>
+								<dd><a href="#">圣彼得堡：风光迤逦的北方威尼斯</a></dd>
+								<dd><a href="#">清迈：文艺清新的泰北明珠</a></dd>
+								<dd><a href="#">柏林：啤酒相约猪肘</a></dd>
+							</dl>
+						</div>
+						<div class="mddgl-list">
+							<div style="height:34px;" class="small-tit">
+								<ul>
+									<li><a href="#" style="background:#3983e5;color:#fff;">攻略精选活动</a></li>
+									<li><a href="#">旅行正当时</a></li>
+									<li><a href="#">看海悠悠乐</a></li>
+									<li><a href="#">教你买买买</a></li>
+								</ul>
+								<a href="#">更多旅行攻略 &gt;</a>
+							</div>
+							<ul>
+								<li class="a1"><a href="#">2017旅行家</a></li>
+								<li class="a2"><a href="#">听听上线</a></li>
+								<li class="a3"><a href="#">美食林周年庆</a></li>
+								<li class="a4"><a href="#">招募携程旅行家</a></li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li class="section8">
+					<div class="tit">
+						<ul>
+							<li>
+								<a href="#" style="color:blue;">旅行服务</a>
+								<i></i>
+							</li>
+						</ul>
+					</div>
+					<ul class="lxfw-list">
+						<li class="aa">
+							<div class="lxfw-up">
+								<span><i></i></span>
+								<div>
+									<p class="tita">出境WiFi</p>
+									<p class="txt">全球出境WiFi租赁</p>
+									<p class="txt">流量不限、多人共享、携带便捷、低阶信号强</p>
+								</div>
+							</div>
+							<ul class="lxfw-down">
+								<li>
+									<i></i>
+									<a href="#">日本</a>
+								</li>
+								<li class="hg">
+									<i></i>
+									<a href="#">韩国</a>
+								</li>
+								<li>
+									<i></i>
+									<a href="#">欧洲通用</a>
+								</li>
+								<li style="border:0;">
+									<i></i>
+									<a href="#">更多</a>
+								</li>
+							</ul>
+						</li>
+						<li class="bb">
+							<div class="lxfw-up">
+								<span><i></i></span>
+								<div>
+									<p class="tita">签证</p>
+									<p class="txt">在材料制作完成前均可申请订单全额退款</p>
+									<p class="txt">服务优质、方便快捷、诚信可靠、出签率高</p>
+								</div>
+							</div>
+							<ul class="lxfw-down">
+								<li>
+									<i class="rb"></i>
+									<a href="#">日本</a>
+								</li>
+								<li class="hg">
+									<i class="hg"></i>
+									<a href="#">韩国</a>
+								</li>
+								<li>
+									<i class="mg"></i>
+									<a href="#">美国</a>
+								</li>
+								<li style="border:0;">
+									<i class="odly"></i>
+									<a href="#">澳大利亚</a>
+								</li>
+							</ul>
+						</li>
+						<li class="cc">
+							<div class="lxfw-up">
+								<span><i></i></span>
+								<div>
+									<p class="tita">保险</p>
+									<p class="txt">携程保险，安心随行</p>
+									<p class="txt">旅游定制、快速出保、便捷理赔</p>
+								</div>
+							</div>
+							<ul class="lxfw-down">
+								<li>
+									<i class="sg"></i>
+									<a href="#">【申根之王】</a>
+								</li>
+								<li class="hg">
+									<i class="yz"></i>
+									<a href="#">【亚洲优选】</a>
+								</li>
+								<li style="border:0;">
+									<i class="gn"></i>
+									<a href="#">【国内畅游】</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li class="section9">
+					<div class="parter">
+						<div class="parter-left">
+							<div>
+								<h1>合作优惠</h1>
+								<a href="#">更多</a>
+							</div>
+							<ul>
+								<li><a href="#">工行银联信用卡爱购周末</a></li>
+								<li><a href="#">广发携程联名卡乐游周边</a></li>
+							</ul>
+						</div>
+						<div class="parter-right">
+							<h1>合作伙伴</h1>
+							<ul>
+								<li><a href="#" class="hh"></a></li>
+								<li><a href="#" class="ty"></a></li>
+								<li><a href="#" class="tf"></a></li>
+								<li><a href="#" class="tj"></a></li>
+								<li><a href="#" class="ya"></a></li>
+								<li><a href="#" class="ez"></a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="parter-list">
+						<dl>
+							<dt>携程导航</dt>
+							<dd><a href="#">酒店预订</a></dd>
+							<dd><a href="#">海外酒店</a></dd>
+							<dd><a href="#">特价机票</a></dd>
+							<dd><a href="#">国际机票</a></dd>
+							<dd><a href="#">旅游攻略</a></dd>
+							<dd><a href="#">景点门票</a></dd>
+							<dd><a href="#">旅游攻略</a></dd>
+							<dd><a href="#">火车票</a></dd>
+							<dd><a href="#">酒店团购</a></dd>
+							<dd><a href="#">邮轮</a></dd>
+							<dd><a href="#">周末游</a></dd>
+							<dd><a href="#">签证</a></dd>
+							<dd><a href="#">租车</a></dd>
+							<dd><a href="#">目的地榜单</a></dd>
+							<dd><a href="#">欧铁通票</a></dd>
+							<dd><a href="#">自由行</a></dd>
+							<dd><a href="#">会议旅游</a></dd>
+							<dd><a href="#">客栈民宿</a></dd>
+							<dd><a href="#">礼品卡</a></dd>
+							<dd><a href="#">团队游</a></dd>
+							<dd><a href="#">企业商旅</a></dd>
+							<dd><a href="#">查看全部</a></dd>
+						</dl>
+						<div class="line"></div>
+						<dl>
+							<dt>酒店预订</dt>
+							<dd><a href="#">城市酒店</a></dd>
+							<dd><a href="#">国家酒店</a></dd>
+							<dd><a href="#">北京酒店</a></dd>
+							<dd><a href="#">上海酒店</a></dd>
+							<dd><a href="#">广州酒店</a></dd>
+							<dd><a href="#">成都酒店</a></dd>
+							<dd><a href="#">杭州酒店</a></dd>
+							<dd><a href="#">西安酒店</a></dd>
+							<dd><a href="#">新加坡酒店</a></dd>
+							<dd><a href="#">迪拜酒店</a></dd>
+							<dd><a href="#">泰国酒店</a></dd>
+							<dd><a href="#">韩国酒店</a></dd>
+						</dl>
+						<div class="line"></div>
+						<dl>
+							<dt>特价机票</dt>
+							<dd><a href="#">上海机票</a></dd>
+							<dd><a href="#">北京机票</a></dd>
+							<dd><a href="#">广州机票</a></dd>
+							<dd><a href="#">深圳机票</a></dd>
+							<dd><a href="#">重庆机票</a></dd>
+							<dd><a href="#">成都机票</a></dd>
+							<dd><a href="#">昆明机票</a></dd>
+							<dd><a href="#">厦门机票</a></dd>
+							<dd><a href="#">三亚机票</a></dd>
+							<dd><a href="#">杭州机票</a></dd>
+							<dd><a href="#">春秋航空</a></dd>
+							<dd><a href="#">东方航空</a></dd>
+						</dl>
+						<div class="line"></div>
+						<dl>
+							<dt>旅游度假</dt>
+							<dd><a href="#">国内旅游攻略</a></dd>
+							<dd><a href="#">出境旅游攻略</a></dd>
+							<dd><a href="#">马尔代夫旅游</a></dd>
+							<dd><a href="#">普吉岛旅游</a></dd>
+							<dd><a href="#">巴厘岛旅游</a></dd>
+							<dd><a href="#">济州岛旅游</a></dd>
+							<dd><a href="#">日本旅游</a></dd>
+							<dd><a href="#">新加坡旅游</a></dd>
+							<dd><a href="#">澳大利亚旅游</a></dd>
+							<dd><a href="#">迪拜旅游</a></dd>
+							<dd><a href="#">柬埔寨旅游</a></dd>
+							<dd><a href="#">英国旅游</a></dd>
+						</dl>
+						<div class="line"></div>
+						<dl>
+							<dt>攻略指南</dt>
+							<dd><a href="#">攻略社区</a></dd>
+							<dd><a href="#">旅游攻略</a></dd>
+							<dd><a href="#">旅行游记</a></dd>
+							<dd><a href="#">旅行问答</a></dd>
+							<dd><a href="#">结伴旅游</a></dd>
+							<dd><a href="#">周末旅游</a></dd>
+							<dd><a href="#">攻略下载</a></dd>
+							<dd><a href="#">天气预报</a></dd>
+							<dd><a href="#">旅游资讯</a></dd>
+							<dd><a href="#">旅游榜单</a></dd>
+							<dd><a href="#">旅游专题</a></dd>
+							<dd><a href="#">地图大全</a></dd>
+						</dl>
+						<div class="line"></div>
+						<dl>
+							<dt>快速入口</dt>
+							<dd><a href="#">团购导航</a></dd>
+							<dd><a href="#">门票导航</a></dd>
+							<dd><a href="#">客栈管理系统</a></dd>
+							<dd><a href="#">天海邮轮</a></dd>
+							<dd><a href="#">中小企业差旅</a></dd>
+							<dd><a href="#">存款证明</a></dd>
+							<dd><a href="#">携程主题曲</a></dd>
+							<dd><a href="#">航班时刻表</a></dd>
+							<dd><a href="#">火车时刻表</a></dd>
+							<dd><a href="#">汽车时刻表</a></dd>
+							<dd style="width:110px;"><i></i><a href="#">Global Sites</a><b></b></dd>
+						</dl>
+					</div>
+				</li>
+			<ul>
+		</div>
+		<div id="nav-aside">
+			<ul>
+				<li class="nav1"><a href="#"></a><i>旅游</i></li>
+				<li class="nav2"><a href="#"></a><i>酒店</i></li>
+				<li class="nav3"><a href="#"></a><i>机票</i></li>
+				<li class="nav4"><a href="#"></a><i>用车</i></li>
+				<li class="nav5"><a href="#"></a><i>玩乐</i></li>
+				<li class="nav6"><a href="#"></a><i>购物</i></li>
+				<li class="nav7"><a href="#"></a><i>攻略</i></li>
+				<li class="nav8"><a href="#"></a><i>更多</i></li>
+			</ul>
+		</div>
+	</div>
+	<div id="footerbox">
+		<div class="footer-nav">
+			<div class="why">
+				<h2>为什么选择携程</h2>
+				<div class="fw-pri fw-pri1">
+					<i></i>
+					<div>
+						<p class="cs">放心的服务</p>
+						<p>领先的服务标准 独创的保障体系</p>
+					</div>
+				</div>
+				<div class="fw-pri fw-pri2">
+					<i></i>
+					<div>
+						<p class="cs">放心的价格</p>
+						<p>具竞争力的价格 无任何隐形费用</p>
+					</div>
+				</div>
+			</div>
+			<dl class="lv-jm">
+				<dt>旅游资讯</dt>
+				<dd><a href="#" class="a1">宾馆索引</a><a href="#" class="a2">功略索引</a></dd>
+				<dd><a href="#" class="a1">机票索引</a><a href="#" class="a2">网站导航</a></dd>
+				<dd><a href="#" class="a1">旅游索引</a><a href="#" class="a2">火车票索引</a></dd>
+				<dd><a href="#" class="a1">邮轮索引</a><a href="#" class="a2">企业差旅索引</a></dd>
+				<dd><a href="#" class="a1">用车索引</a><a href="#" class="a2"></a></dd>
+			</dl>
+			<dl class="lv-jm">
+				<dt>加盟合作</dt>
+				<dd><a href="#" class="a1">分销联盟</a><a href="#" class="a2">友情链接</a></dd>
+				<dd><a href="#" class="a1">广告业务</a><a href="#" class="a2">企业礼品卡采购</a></dd>
+				<dd><a href="#" class="a1">报销代理</a><a href="#" class="a2">代理合作</a></dd>
+				<dd><a href="#" class="a1">酒店加盟</a><a href="#" class="a2">目的地及景区合作</a></dd>
+				<dd><a href="#" class="a1">智慧旅游</a><a href="#" class="a2">更多加盟合作</a></dd>
+			</dl>
+			<dl class="lv-jm">
+				<dt>关于携程</dt>
+				<dd><a href="#" class="a1">关于携程</a><a href="#" class="a2">携程热点</a></dd>
+				<dd><a href="#" class="a1">联系我们</a><a href="#" class="a2">诚聘英才</a></dd>
+				<dd><a href="#" class="a1">旅游度假资质</a><a href="#" class="a2">企业公民</a></dd>
+				<dd><a href="#" class="a1">用户协议</a><a href="#" class="a2">营业执照</a></dd>
+				<dd><a href="#" class="a1">安全中心</a><a href="#" class="a2">携程信用卡</a></dd>
+			</dl>
+			<div class="ewm">
+				<p>微信公众号</p>
+				<span><i></i><b>扫一扫，领旅行福利</b></span>
+			</div>
+		</div>
+		<div class="copy">
+			<span>
+				<a href="#">Copyright&copy;</a>1999-2017,<a href="#">.ctrip.com.</a>All rights reserved. |<a href="#">ICP证：沪B2-20050130</a>
+			</span>
+			<div><i></i><a href="#">沪公网备31010502000018号</a></div>
+			<ul>
+				<li>旅游违法行为举报电话12318 丨</li>
+				<li>服务质量投诉电话 962020 丨</li>
+				<li>违法和不良信息举报电话+8613501922340 丨</li>
+				<li><a href="#">上海市旅游网站落实诚信建设主体责任承诺书</a></li>
+			</ul>
+		</div>
+		<ul>
+			<li class="zz1"><i></i><span>信用评级</span></li>
+			<li class="zz2"><i></i><span>上海工商</span></li>
+			<li class="zz3"></li>
+			<li class="zz4"><i></i><span>网络社会征信网</span></li>
+			<li class="zz5"></li>
+			<li class="zz6"></li>
+			<li class="zz7"></li>
+			<li class="zz8"></li>
+			<li class="zz9"></li>
+			<li class="zz10"></li>
+		</ul>
+	</div>
+	<div id="aside"></div>
+</body>
+</html>
+
